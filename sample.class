@@ -1,6 +1,6 @@
 public class hello{
  
   public void test(){
-   system.debug('hello GitHub...');
+   system.debug('hello GitHub....');
   }
 }
